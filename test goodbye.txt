@@ -1,2 +1,2 @@
-test goodbye
-gggggg
+test goodbye;
+gggggg;
